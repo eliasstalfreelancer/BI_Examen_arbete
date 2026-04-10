@@ -176,3 +176,4 @@ Varför är Power BI ett bra val för detta case? (max 5–8 rader)
 När räcker Excel/PowerPivot, och när blir det olämpligt? (max 5–8 rader)
 Om rapporterna ska delas i organisationen: hur skulle du leverera detta i praktiken? (t.ex. Power BI Service, export/PDF, åtkomst/behörighet på en övergripande nivå – max 5–8 rader)
 Fokus här är resonemang kring lämpliga verktyg för rätt målgrupp, inte licensdetaljer.
+
