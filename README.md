@@ -1,5 +1,5 @@
 # BI_Examen_arbete 
-## fråge sättning om Behovsanalys. (Fick Betyg: G)
+## Fråge sättning om Behovsanalys. (Fick Betyg: G)
 
 Introduktion
 Du är BI-analytiker på ett företag som vill bli mer datadrivet. Idag tar rapporter lång tid att få fram och olika personer räknar på olika sätt, vilket leder till olika “versioner av sanningen”. Målet är att skapa en Self-Service BI-lösning där rätt målgrupper får rätt insikter, i rätt format.
